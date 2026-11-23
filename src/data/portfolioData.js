@@ -4,7 +4,7 @@ export const personalInfo = {
   location: "Bengaluru, India",
   phone: "+91-8762548767",
   email: "vasisht765@gmail.com",
-  linkedin: "https://linkedin.com",
+  linkedin: "https://www.linkedin.com/in/vasisht-suresh/",
   github: "https://github.com/VasishtGit",
   bio: "CS student working across machine learning pipelines, transformer architectures, and backend infrastructure. Currently experimenting with clause-level narrative memorability and reinforcement learning for educational cognition.",
   status: "Available for ML / Backend roles & internships"
